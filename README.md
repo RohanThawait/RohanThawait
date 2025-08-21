@@ -2,7 +2,8 @@
 
 **Developer & Tech Enthusiast** passionate about AI and Large Language Models.
 
-👨‍💻 About Me
+## 👨‍💻 About Me
+
 🔭 I’m currently pursuing my Master of Technology in Computational and Data Science at NITK Surathkal.
 
 🌱 I’m focused on backend development, system design, and applying AI/ML to create robust, enterprise-ready solutions.
