@@ -2,7 +2,7 @@
 
 **Developer & Tech Enthusiast** passionate about AI and Large Language Models.
 
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true)
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=dark)
 
 ## 👨‍💻 About Me
 
@@ -61,11 +61,13 @@
 
 ---
 
-##  Competitive Programming & Learning
+##  Competitive Programming Learning
 
 - **LeetCode:** Solved 300 problems. Strong areas: Dynamic Programming, Union-Find, Backtracking; solid fundamentals in Arrays, Strings, Two Pointers.
 - **GeeksforGeeks:** Solved 294 problems, with an ongoing streak of **114 consecutive days**, showcasing consistency and dedication.
 
+---
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=dark)
 ---
 
 ##  Let's Connect
