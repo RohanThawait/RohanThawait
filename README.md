@@ -2,6 +2,17 @@
 
 **Developer & Tech Enthusiast** passionate about AI and Large Language Models.
 
+👨‍💻 About Me
+🔭 I’m currently pursuing my Master of Technology in Computational and Data Science at NITK Surathkal.
+
+🌱 I’m focused on backend development, system design, and applying AI/ML to create robust, enterprise-ready solutions.
+
+👯 I’m looking to collaborate on open-source projects related to backend systems, DevOps, or AI applications.
+
+💬 Ask me about Python, FastAPI, LangChain, System Design, and Docker.
+
+📫 How to reach me: thawaitrohan@gmail.com
+
 ---
 
 ##  ​ What I Work On
