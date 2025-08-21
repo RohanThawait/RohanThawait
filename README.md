@@ -2,8 +2,6 @@
 
 **Developer & Tech Enthusiast** passionate about AI and Large Language Models.
 
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=dark)
-
 ## 👨‍💻 About Me
 
 🔭 I’m currently pursuing my Master of Technology in Computational and Data Science at NITK Surathkal.
@@ -57,8 +55,6 @@
 ![Streak](https://img.shields.io/badge/Current%20Streak-114%20days-brightgreen?logo=geeksforgeeks&logoColor=white)
 ![Ranking](https://img.shields.io/badge/Active%20User-Top%20Contributor-success?logo=geeksforgeeks&logoColor=white)
 
-🔗 [View my GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/rohan_thawait/)
-
 ---
 
 ##  Competitive Programming Learning
@@ -67,7 +63,7 @@
 - **GeeksforGeeks:** Solved 294 problems, with an ongoing streak of **114 consecutive days**, showcasing consistency and dedication.
 
 ---
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=dark)
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=tokyonight)
 ---
 
 ##  Let's Connect
