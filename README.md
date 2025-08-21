@@ -32,7 +32,7 @@
 ![Streak](https://img.shields.io/badge/Days%20Streak-114-brightgreen?logo=leetcode&logoColor=white)
 ![Language](https://img.shields.io/badge/Preferred%20Lang-Python-blue?logo=python&logoColor=white)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/RohanThawait?theme=light&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RohanThawait?theme=dark&font=Karma&ext=heatmap)
 
 🔗 [View my LeetCode Profile](https://leetcode.com/u/RohanThawait/)
 
