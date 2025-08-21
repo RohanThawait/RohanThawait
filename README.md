@@ -2,7 +2,7 @@
 
 **Developer & Tech Enthusiast** passionate about AI and Large Language Models.
 
-!(https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true)
+!https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true
 
 
 ## 👨‍💻 About Me
