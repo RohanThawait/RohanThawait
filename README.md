@@ -2,6 +2,9 @@
 
 **Developer & Tech Enthusiast** passionate about AI and Large Language Models.
 
+!(https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true)
+
+
 ## 👨‍💻 About Me
 
 🔭 I’m currently pursuing my Master of Technology in Computational and Data Science at NITK Surathkal.
