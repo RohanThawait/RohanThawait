@@ -63,7 +63,7 @@
 - **GeeksforGeeks:** Solved 294 problems, with an ongoing streak of **114 consecutive days**, showcasing consistency and dedication.
 
 ---
-![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=tokyonight)
+![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=tokyonight&border=no-border)
 ---
 
 ##  Let's Connect
