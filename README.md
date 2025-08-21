@@ -9,9 +9,9 @@
 - **AI-powered Tools & Assistants**  
   Notable projects:
   - **LawyerLens** – AI legal assistant that validates documents against Indian legal standards using a dual-retrieval RAG architecture (local documents & knowledge base) powered by Gemini. :contentReference[oaicite:0]{index=0}  
-  - **VoicePaper** – Converts research papers into podcasts using FastAPI, Streamlit, PostgreSQL, and Docker. :contentReference[oaicite:1]{index=1}  
-  - **CodeQuest** – AI-driven Slack bot to help onboard engineers, built with LangChain and Gemini. :contentReference[oaicite:2]{index=2}  
-  - **FinancialAgent** – [Brief short tagline of what it does] (you may describe briefly). :contentReference[oaicite:3]{index=3}
+  - **VoicePaper** – Converts research papers into podcasts using FastAPI, Streamlit, PostgreSQL, and Docker. 
+  - **CodeQuest** – AI-driven Slack bot to help onboard engineers, built with LangChain and Gemini.
+  - **FinancialAgent** – [Brief short tagline of what it does] (you may describe briefly).
 
 ---
 
@@ -27,8 +27,8 @@
 
 ##  Competitive Programming & Learning
 
-- **LeetCode:** Solved 300 problems. Strong areas: Dynamic Programming, Union-Find, Backtracking; solid fundamentals in Arrays, Strings, Two Pointers. :contentReference[oaicite:4]{index=4}  
-- **GeeksforGeeks:** Solved 294 problems, with an ongoing streak of **114 consecutive days**, showcasing consistency and dedication. :contentReference[oaicite:5]{index=5}
+- **LeetCode:** Solved 300 problems. Strong areas: Dynamic Programming, Union-Find, Backtracking; solid fundamentals in Arrays, Strings, Two Pointers.
+- **GeeksforGeeks:** Solved 294 problems, with an ongoing streak of **114 consecutive days**, showcasing consistency and dedication.
 
 ---
 
@@ -41,4 +41,4 @@
 
 ---
 
-Thanks for stopping by — I'd love to connect, collaborate, or chat about AI, LLMs, or technical challenges you're passionate about!
+Thanks for stopping by, I'd love to connect, collaborate, or chat about AI, LLMs, or technical challenges you're passionate about!
