@@ -11,7 +11,7 @@
   - **LawyerLens** – AI legal assistant that validates documents against Indian legal standards using a dual-retrieval RAG architecture (local documents & knowledge base) powered by Gemini. :contentReference[oaicite:0]{index=0}  
   - **VoicePaper** – Converts research papers into podcasts using FastAPI, Streamlit, PostgreSQL, and Docker. 
   - **CodeQuest** – AI-driven Slack bot to help onboard engineers, built with LangChain and Gemini.
-  - **FinancialAgent** – [Brief short tagline of what it does] (you may describe briefly).
+  - **FinancialAgent** – An advanced AI financial agent built with LangChain and Google Gemini. Features conversational SQL, on-demand data visualization, and real-time transaction syncing via the Plaid API.
 
 ---
 
