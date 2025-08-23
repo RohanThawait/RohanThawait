@@ -60,7 +60,7 @@
 ##  Competitive Programming Learning
 
 - **LeetCode:** Solved 300 problems. Strong areas: Dynamic Programming, Union-Find, Backtracking; solid fundamentals in Arrays, Strings, Two Pointers.
-- **GeeksforGeeks:** Solved 294 problems, with an ongoing streak of **114 consecutive days**, showcasing consistency and dedication.
+- **GeeksforGeeks:** Solved 294 problems, with an ongoing streak of **114 consecutive days**.
 
 ---
 ![LeetCode Badge](https://leetcode-badge-showcase.vercel.app/api?username=RohanThawait&animated=true&theme=tokyonight&border=no-border)
