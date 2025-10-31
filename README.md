@@ -4,13 +4,15 @@
 
 ## 👨‍💻 About Me
 
-🔭 I’m currently pursuing my Master of Technology in Computational and Data Science at NITK Surathkal.
+🎓 I’m an M.Tech student in Computational and Data Science at NITK Surathkal, with a strong foundation in DSA, Machine Learning, and AI system design.
 
-🌱 I’m focused on backend development, system design, and applying AI/ML to create robust, enterprise-ready solutions.
+🚀 I’m currently focused on building intelligent agents and RAG-based applications using frameworks like LangGraph, LlamaIndex, and SmolAgents — with the goal of creating production-grade AI systems that can reason, plan, and act autonomously.
 
-👯 I’m looking to collaborate on open-source projects related to backend systems, DevOps, or AI applications.
+🧠 My interests span LLMs, agentic AI, and scalable backend design, especially where AI meets real-world automation.
 
-💬 Ask me about Python, FastAPI, LangChain, System Design, and Docker.
+🤝 I’m open to collaborating on AI agent frameworks, retrieval-augmented systems, and open-source tools that push the boundary of what small teams can build with modern AI.
+
+💬 Let’s talk about Python, FastAPI, Hugging Face, LangChain, LangGraph, RAG, or system design for intelligent applications.
 
 📫 How to reach me: thawaitrohan@gmail.com
 
