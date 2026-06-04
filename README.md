@@ -17,7 +17,6 @@ The most interesting finding: diagnosed **reward saturation** from training curv
 - 📊 MATH-500: **+3.6%** over instruct baseline (out-of-distribution generalization)  
 - 🤗 [Model on HuggingFace](https://huggingface.co/thawait/qwen2.5-7b-math-reasoning-grpo)  
 - 💻 [Code + benchmarks](https://github.com/RohanThawait/qwen2.5-7b-math-reasoning-grpo)  
-- 🎤 [Live voice demo](https://huggingface.co/spaces/thawait/math-reasoning-voice-demo)
 
 ### 📐 Long-Context RoPE Scaling — Mistral-7B
 Extended Mistral-7B context from 8K → 32K tokens using **YaRN RoPE scaling** + **LongLoRA** finetuning.  
@@ -56,8 +55,8 @@ Evaluated with needle-in-a-haystack tests across context lengths.
 
 ## Background
 
-- 🎓 M.Tech Computational and Data Science — **NIT Karnataka** (GATE CS 2024)
-- 🎓 B.Tech Computer Science — SAGE University
+- 🎓 M.Tech Computational and Data Science — **NIT Karnataka (Surathkal)** (GATE CS 2024)
+- 🎓 B.Tech Computer Science Engineering — SAGE University
 - 💡 500+ LeetCode problems · Kaggle Contributor · Python Gold @ HackerRank
 
 ---
