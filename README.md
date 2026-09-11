@@ -1,6 +1,6 @@
 # Hi, I'm Rohan Thawait 👋
 
-M.Tech student at **NIT Karnataka (NITK Surathkal)** · Graduating June 2026  
+M.Tech from **NIT Karnataka (NITK Surathkal)**
 I train large language models from scratch and build the systems around them.
 
 ---
